@@ -7,5 +7,5 @@ def second_challenge
       :patriarch => '', :matriarch => '', :heroine => '', :heroine_friends => ''
       }}
 
-  
+  return epic_tragedy
 end
