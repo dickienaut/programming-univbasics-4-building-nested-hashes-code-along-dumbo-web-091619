@@ -16,8 +16,8 @@ def fourth_challenge
         {:age=>"30", :attitude=>"confused", :name=>"Steven"}, {:age=>"44", :attitude=>"worried", :name=>"Nurse"}
       ]
    }
-}
+  }
 
-  #epic_tragedy[:montague][:hero][:status] = 'dead'
+  epic_tragedy[:montague][:hero][:status] = 'dead'
 
 end
